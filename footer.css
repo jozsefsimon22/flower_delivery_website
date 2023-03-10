@@ -6,3 +6,13 @@
     color: white;
     padding-left: 10px;
 }
+
+.footer-icon {
+    width: 25px;
+    filter: invert(1);
+    margin-right: 5px;
+}
+
+.me-3 {
+    margin-bottom: 5px;
+}
